@@ -1,37 +1,27 @@
-## Swivano Software
+## Disinfect Fabric Mask Quality Control Software
 
-You can use the [editor on GitHub](https://github.com/SwivanoLIPI/ARDPROJECT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+https://github.com/SwivanoLIPI/ARDPROJECT/edit/master/README.md
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Main Function
+Testing the harmless quality of Disinfect Fabric Mask yielded by Covid-19 Research Project in Research Center for Physics-LIPI (Indonesian Institute of Sciences) 2020
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The software is connected by 3 Sensors
 
-```markdown
-Syntax highlighted code block
+# PH sensors
+# Turbidity Sensors
+# Temperature Sensors
 
-# Header 1
-## Header 2
-### Header 3
+Other Contributors
 
-- Bulleted
-- List
+- Dr. Deni Shidqi Khaerudini, S.Si, M.Eng
+- Gerald Ensang Timuda, S.Si, M.Eng
 
-1. Numbered
-2. List
+This software are passed Quality and Validation test that reviewed by those researchers. The softwre are able to :
 
-**Bold** and _Italic_ and `Code` text
+1. Retrieved data of measurements in real time using the sensors
+2. Saved the data of measurements
+3. Open to modified with other sensors
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SwivanoLIPI/ARDPROJECT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Note** :  _This software is produced and managed using visual basic programe_ and `Arduino IDE` as assembly program to control DAQ serial measurements
