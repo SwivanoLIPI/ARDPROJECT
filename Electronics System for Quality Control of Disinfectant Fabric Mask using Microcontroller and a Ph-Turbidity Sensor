@@ -1,0 +1,7 @@
+One of my inventions in 2020 is a disinfector cloth mask. 
+This mask is equipped with a contact killer that is able to destroy viruses and other micro-organisms. 
+This innovation is very useful when dealing with covid19 outbreaks.
+To ensure that this mask is truly harmless when used by humans, a series of qualification tests are made. 
+This test uses several sensors including DFR Ph Meter v1.1 and DFR analog Turbidity which both function in measuring pH and turbidity. 
+A DAQ system is made using several devices such as Arduino Uno, Battery 16430 Sheild and Groove Extended board and is connected to the two sensors. 
+The results obtained can be seen in the text and image data included in the file in this repository
